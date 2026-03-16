@@ -1,21 +1,9 @@
-<h1 align="center">🌸 Hi, I'm Paola!</h1>
+# 🌸 Hi, I'm Paola!
 
-<p align="center">
-💗 Beginner <strong>Front-End Developer</strong> <br>
-🎓 Analysis and Systems Development — 3rd semester
-</p>
+💗 Front-End Developer in progress  
+🎓 Analysis and Systems Development — 3rd semester  
 
----
-
-## 🌷 About Me
-
-Hi! I'm Paola, a beginner **Front-End Developer** who loves creating cute and visually pleasing websites.
-
-My interest in web development started when I was younger creating **Tumblr templates**, where I discovered how fun it is to design and customize websites.
-
-Right now I'm improving my skills in **HTML and CSS**, and preparing to start learning **JavaScript** soon.
-
-✨ I'm passionate about **front-end development** because it combines **creativity and technology**.
+I love creating **cute and aesthetic websites** and bringing ideas to life through code ✨
 
 ---
 

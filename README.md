@@ -17,7 +17,7 @@ I love creating **cute and aesthetic websites** and bringing ideas to life throu
 
 ---
 
-## 🌱 Currently Learning
+## Learning
 
 - HTML  
 - CSS  

@@ -13,7 +13,7 @@ I love creating **cute and aesthetic websites** and bringing ideas to life throu
 <img src="https://img.shields.io/badge/HTML-ff8fab?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-a2d2ff?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-cdb4db?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-ffe066?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-ffe066?style=for-the-badge&logo=javascript&logoColor=white">
 
 </p>
 

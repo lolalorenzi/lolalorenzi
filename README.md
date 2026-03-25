@@ -19,12 +19,12 @@ I love creating **cute and aesthetic websites** and bringing ideas to life throu
 
 ---
 
-## Learning
+## Skills
 
 - HTML  
 - CSS  
 - C#   
-- JavaScript (next step ✨)
+- JavaScript (learning ✨)
 
 ---
 

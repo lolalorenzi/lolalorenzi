@@ -36,9 +36,3 @@ I love creating **cute and aesthetic websites** and bringing ideas to life throu
 🖥️ Building web layouts  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolalorenzi&layout=compact&theme=rose">
-</p>

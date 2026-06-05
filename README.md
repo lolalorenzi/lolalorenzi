@@ -24,7 +24,9 @@ I love creating **cute and aesthetic websites** and bringing ideas to life throu
 - HTML  
 - CSS  
 - C#   
-- JavaScript (learning ✨)
+- JavaScript
+- Node.js
+- React
 
 ---
 

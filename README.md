@@ -1,7 +1,7 @@
 # 🌸 Hi, I'm Paola!
 
 💗 Front-End Developer in progress  
-🎓 Analysis and Systems Development — 3rd semester  
+🎓 Analysis and Systems Development — 4rd semester  
 
 I love creating **cute and aesthetic websites** and bringing ideas to life through code ✨
 
